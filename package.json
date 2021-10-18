@@ -1,0 +1,22 @@
+{
+  "name": "@cloud-walker/hello",
+  "version": "0.1.0-0",
+  "main": "main.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloud-walker/hello.git"
+  },
+  "author": "Luca Barone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloud-walker/hello/issues"
+  },
+  "homepage": "https://github.com/cloud-walker/hello#readme",
+  "description": "",
+  "publishConfig": {
+    "@cloud-walker:registry": "https://npm.pkg.github.com"
+  }
+}
